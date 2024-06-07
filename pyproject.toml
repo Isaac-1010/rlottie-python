@@ -11,9 +11,9 @@ dependencies = []
 dynamic = ["version"]
 
 [project.urls]
-Repository = "https://github.com/laggykiller/rlottie-python"
+Repository = "https://github.com/Isaac-1010/rlottie-python"
 Documentation = "https://rlottie-python.readthedocs.io/en/latest/"
-Tracker = "https://github.com/laggykiller/rlottie-python/issues"
+Tracker = "https://github.com/Isaac-1010/rlottie-python/issues"
 
 [project.optional-dependencies]
 full = [

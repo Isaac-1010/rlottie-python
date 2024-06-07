@@ -1,4 +1,4 @@
 [submodule "rlottie"]
 	path = rlottie
-	url = https://github.com/laggykiller/rlottie.git
+	url = https://github.com/Isaac-1010/rlottie.git
 	branch = arm_compat

@@ -114,7 +114,7 @@ if __name__ == "__main__":
 ```
 
 ## Comparing to other library
-The `lottie` (https://pypi.org/project/lottie/) python package is also capable of working with lottie files and telegram animated stickers (tgs). It is also able to support many input/output formats and vector graphics, without any dependency on extenral libraries such as librlottie. However some images it creates is broken ([Example1](https://github.com/laggykiller/sticker-convert/issues/5) [Example2](https://gitlab.com/mattbas/python-lottie/-/issues/95)). It seems librlottie is more stable in terms of rendering frames.
+The `lottie` (https://pypi.org/project/lottie/) python package is also capable of working with lottie files and telegram animated stickers (tgs). It is also able to support many input/output formats and vector graphics, without any dependency on extenral libraries such as librlottie. However some images it creates is broken ([Example1](https://github.com/Isaac-1010/sticker-convert/issues/5) [Example2](https://gitlab.com/mattbas/python-lottie/-/issues/95)). It seems librlottie is more stable in terms of rendering frames.
 
 The `pyrlottie` (https://pypi.org/project/pyrlottie/) python package is also able to convert lottie and tgs files to webp/gif. However, it works by calling executables `gif2webp` and `lottie2gif` with subprocess, and it does not support macOS.
 
@@ -122,7 +122,7 @@ The `pyrlottie` (https://pypi.org/project/pyrlottie/) python package is also abl
 
 To build wheel, run the following:
 ```bash
-git clone --recursive https://github.com/laggykiller/rlottie-python.git
+git clone --recursive https://github.com/Isaac-1010/rlottie-python.git
 cd rlottie-python
 
 # To build wheel

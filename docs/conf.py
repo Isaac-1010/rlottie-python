@@ -12,8 +12,8 @@ sys.path.insert(0, os.path.abspath("../src"))
 import rlottie_python  # type: ignore # noqa: F401
 
 project = "rlottie-python"
-copyright = "2023, laggykiller"
-author = "laggykiller"
+copyright = "2023, Isaac-1010"
+author = "Isaac-1010"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
